@@ -4,6 +4,28 @@
       // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
       "version": "0.2.0",
       "configurations": [
+            
+            {
+                  "type": "java",
+                  "name": "MinhaClasse",
+                  "request": "launch",
+                  "mainClass": "MinhaClasse",
+                  "projectName": "dio-trilha-java-basico_ef5a5a84"
+            },
+            {
+                  "type": "java",
+                  "name": "AboutMe",
+                  "request": "launch",
+                  "mainClass": "AboutMe",
+                  "projectName": "dio-trilha-java-basico_ef5a5a84"
+            },
+            {
+                  "type": "java",
+                  "name": "Usuario",
+                  "request": "launch",
+                  "mainClass": "Usuario",
+                  "projectName": "dio-trilha-java-basico_ef5a5a84"
+            },
             {
                   "type": "java",
                   "name": "Current File",
