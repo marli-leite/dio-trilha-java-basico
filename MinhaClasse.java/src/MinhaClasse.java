@@ -1,9 +1,8 @@
 
-
 public class MinhaClasse {
-      
-      public static void main (String[] args){
 
+    public static void main (String[] args){
+try{
             String nome = args [0];
             String sobrenome = args [11];
             String agencia = args [2];
@@ -13,7 +12,7 @@ public class MinhaClasse {
             System.out.println("Olá, " + nome + " " + sobrenome);
             System.out.println("Obrigada por criar uma conta em nosso banco, sua agencia é: " + agencia + "Conta" + numero);
             System.out.println("E seu saldo já está disponivel para saque: Saldo" + saldo);
-           
-        }
-    }
+}
 
+        }
+}
